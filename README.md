@@ -1,3 +1,2 @@
 # Github_practice
-This is my first github practice to learn github
-GO TO CLONE
+TThis is my first push to a main branch using a command line
