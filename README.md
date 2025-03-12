@@ -1,2 +1,2 @@
 # Github_practice
-TThis is my first push to a main branch using a command line
+IM GOING TO CHANGE THIS BECUASE I NEED TO PULL NEW INFO
